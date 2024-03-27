@@ -1,0 +1,14 @@
+[package]
+name = "cs47l63"
+version = "0.1.0"
+authors = ["David Haig"]
+edition = "2021"
+license = "Apache-2.0"
+repository = "https://github.com/ninjasource/cs47l63.git"
+description = "A Rust driver for the CS47L63 DSP"
+keywords = ["cs47l63", "embedded", "no_std"]
+categories = ["embedded", "no-std", "multimedia.categories.audio"]
+readme = "README.md"
+
+[dependencies]
+log = "0.4"
